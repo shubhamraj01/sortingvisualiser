@@ -14,7 +14,7 @@ body {
 }
 
 .speedrange.sizerange {
-    color: whitesmoke;
+    color: #1E90FF;
 }
 
 .appname {
@@ -24,17 +24,18 @@ body {
 
 .navitemsList {
     margin-left: auto;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
 }
 
 .nav-link,
 .newArray {
     margin-right: 1rem;
+    color: #57CC99;
 }
 
 .navdropdown {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: bold;
     text-align: center;
 }
@@ -64,10 +65,10 @@ body {
 
 /*SortBUtton*/
 #sort-button {
-    font-size: 2rem;
+    font-size: 3rem;
     border-radius: 50px;
     box-shadow: 5px 3px #888888;
-    font-weight: 900;
+    font-weight: 700;
     width: 80%;
     margin: 2% 10%;
 }
@@ -78,7 +79,7 @@ body {
     padding: 2% 6%;
 }
 .link{
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-decoration: none;
     color: brown; 
 }
