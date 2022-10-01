@@ -14,7 +14,7 @@ body {
 }
 
 .speedrange.sizerange {
-    color: whitesmoke;
+    color: #8A9A5B;
 }
 
 .appname {
@@ -24,8 +24,9 @@ body {
 
 .navitemsList {
     margin-left: auto;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: bold;
+    color:#8A9A5B;
 }
 
 .nav-link,
@@ -80,7 +81,7 @@ body {
 .link{
     font-size: 1.5rem;
     text-decoration: none;
-    color: brown; 
+    color: rgb(157, 12, 12); 
 }
 .social {
     margin: 18px 10px;

@@ -9,6 +9,7 @@ function bubbleSort() {
                 [barsHeight[j], barsHeight[j + 1]] = [barsHeight[j + 1], barsHeight[j]];
 
                 //swapping the color and bars places
+                //animation
                 animation(bars[j], barsHeight[j], c2);
                 animation(bars[j + 1], barsHeight[j + 1], c1);
             }
