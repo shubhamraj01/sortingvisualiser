@@ -80,7 +80,7 @@ body {
 }
 .link{
     font-size: 1.5rem;
-    text-decoration: none;
+    text-decoration:solid;
     color: rgb(157, 12, 12); 
 }
 .social {
