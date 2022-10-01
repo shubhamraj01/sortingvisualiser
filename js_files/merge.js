@@ -32,6 +32,8 @@ function merge(start, end) {
         temp.push(barsHeight[i]);
         i++;
     }
+    //same edge case
+    //also changes animation in that
     while (j <= e) {
         temp.push(barsHeight[j]);
         animation(bars[j], barsHeight[j], c2);

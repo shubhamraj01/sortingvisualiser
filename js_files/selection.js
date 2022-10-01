@@ -10,7 +10,7 @@ function selectionSort() {
       }
       //swap
       [barsHeight[i], barsHeight[mini]] = [barsHeight[mini], barsHeight[i]];
-  
+      //changes animation (color) if getting sorted
       animation(bars[i], barsHeight[i], sorted);
   
       if (mini != i) animation(bars[mini], barsHeight[mini], cm);

@@ -1,4 +1,5 @@
 function quickSort(start, end) {
+    //base case
     if (start > end) {
         return;
     }
